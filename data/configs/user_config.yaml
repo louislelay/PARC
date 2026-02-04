@@ -1,4 +1,4 @@
 # User-specific configuration values.
 # Set DATA_DIR to the absolute path where your datasets, checkpoints,
 # and experiment outputs should be stored or found.
-DATA_DIR: "/Users/mxu/Projects/"
+DATA_DIR: "/home/louislelay/PARC/"

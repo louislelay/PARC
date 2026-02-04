@@ -37,6 +37,7 @@ dependencies = [
     "py-cpuinfo",
     "imageio[ffmpeg]",
     "scipy",
+    "gymnasium>=1.2.3",
 ]
 
 [project.optional-dependencies]
